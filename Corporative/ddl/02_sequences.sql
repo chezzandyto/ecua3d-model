@@ -1,4 +1,4 @@
--- nombre base de secuencias shths
+-- nombre base de secuencias corps
 -- (corp)   (s)
 -- corporative sequence
 
